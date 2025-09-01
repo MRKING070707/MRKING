@@ -82,7 +82,7 @@ print('loading Modules ...\n')
 os.system('clear')
 
 os.system('xdg-open https://www.facebook.com/profile.php?id=100070645238547/')
-os.system('xdg-open https://chat.whatsapp.com/HrsNXXQDxQYHeqFMUo53sH?mode=ac_t')
+os.system('xdg-open https://chat.whatsapp.com/HrsNXXQDxQYHeqFMUo53sH?mode=ems_share_c')
 
 
 # --- Anti-tampering and Security Checks ---
