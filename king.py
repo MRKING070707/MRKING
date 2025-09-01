@@ -18,7 +18,7 @@ from datetime import datetime
 import os, sys
 
 # WhatsApp channel link
-channel_link = " https://chat.whatsapp.com/HrsNXXQDxQYHeqFMUo53sH?mode=ems_share_c"
+channel_link = "https://chat.whatsapp.com/HrsNXXQDxQYHeqFMUo53sH?mode=ems_share_c"
 
 # Valid keys
 approved_keys = ["MR-KING-9648931015-KING-OWNER"]
