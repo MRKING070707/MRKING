@@ -18,10 +18,10 @@ from datetime import datetime
 import os, sys
 
 # WhatsApp channel link
-channel_link = "https://chat.whatsapp.com/FwRPN2kexeYFuLcmDDN6pl?mode=ac_t"
+channel_link = " https://chat.whatsapp.com/HrsNXXQDxQYHeqFMUo53sH?mode=ems_share_c"
 
 # Valid keys
-approved_keys = ["MR-KING-09648931015-KING-OWNER"]
+approved_keys = ["MR-KING-9648931015-KING-OWNER"]
 
 def first_step():
     os.system("clear")
